@@ -1,0 +1,6 @@
+﻿  Casino Number Guessing Game.cpp
+C:\Users\IIMPAPII\source\repos\Casino Number Guessing Game\Casino Number Guessing Game\Casino Number Guessing Game.cpp(18,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\IIMPAPII\source\repos\Casino Number Guessing Game\Casino Number Guessing Game\Casino Number Guessing Game.cpp(43,33): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\IIMPAPII\source\repos\Casino Number Guessing Game\Casino Number Guessing Game\Casino Number Guessing Game.cpp(75,10): warning C4129: 'N': unrecognized character escape sequence
+C:\Users\IIMPAPII\source\repos\Casino Number Guessing Game\Casino Number Guessing Game\Casino Number Guessing Game.cpp(76,10): warning C4129: 'T': unrecognized character escape sequence
+  Casino Number Guessing Game.vcxproj -> C:\Users\IIMPAPII\source\repos\Casino Number Guessing Game\x64\Debug\Casino Number Guessing Game.exe
